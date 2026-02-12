@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I’m Ajay Maurya, an Electronics and Communication Engineering (ECE) graduate from VIT Vellore with a strong interest in Machine Learning, Data Analysis, Embedded Systems, and Signal Processing.<br><br>I enjoy solving real-world problems using a combination of programming, data-driven approaches, and engineering fundamentals. I have hands-on experience working with Python, C++, MATLAB, TensorFlow, and have built projects spanning deep learning, biomedical signal processing, computer vision, and web-based applications.<br><br>I’ve worked on research-oriented and industry-focused projects, including biomedical operational amplifier optimization using machine learning, glaucoma detection using CNNs, and microwave surface impedance analysis using MATLAB. I also have internship experience in defense research (DRDO), where I worked with VNAs, waveguides, and material characterization.<br><br>I’m continuously learning, experimenting, and building — with a focus on writing clean code, understanding core concepts deeply, and creating practical solutions.<br>📌 Currently exploring opportunities in Data, ML, Embedded, and Software roles.
+Electronics and Communication Engineering undergraduate from VIT Vellore (GPA: 9.06) with strong foundations in Machine Learning, Data Analysis, Embedded Systems, and Signal Processing. Hands-on experience in Python, C/C++, MATLAB, and data-driven modeling, with exposure to deep learning, biomedical electronics, microwave engineering, and optical communication systems.
+
+Completed a research internship at DRDO (DMSRDE, Kanpur), working on microwave surface impedance measurement using VNAs and waveguides, and developing MATLAB-based automation scripts to improve analysis efficiency and accuracy. Experienced in collaborating with cross-functional research teams and presenting results through structured reports and visualizations.
+
+Worked on research and application-focused projects including biomedical operational amplifier optimization using machine learning, CNN-based glaucoma detection with model deployment, and underwater optical wireless communication system simulation. Research contributions published in Springer Nature and IEEE Xplore.
+
+Motivated by strong engineering fundamentals, clean implementation, and practical problem-solving. Actively seeking entry-level opportunities in Data, Machine Learning, Embedded, Core Electronics, and Software roles.<br>📌 Currently exploring opportunities in Data, ML, Embedded, and Software roles.
 
 
 # 💻 Tech Stack:
